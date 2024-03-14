@@ -11,17 +11,32 @@ Now he is looking for a PhD position to continue his formation.
 Competences: data science, machine learning, deep learning, llm's, PyTorch, Python, Html.
 
 ## Education 
-- BsC. Pure Mathematics at UNAM
-  
-  Advisor: [PhD. Sergio Rajsbaum.](https://www.matem.unam.mx/~rajsbaum/) Thesis: [Combinatorial Topology Models for Russian Cards Problems.](http://132.248.9.195/ptd2020/noviembre/0804812/Index.html) (In Spanish, third best of all México in 2021)
+
+- Diplomat at the Natural Language Lab at CIC-IPN.
+
+  Advisor: [PhD. Grigori Sidorov.](https://www.cic.ipn.mx/~sidorov/)
+  Terminal Project: Anime Popularity Prediction with Deep Learning Techniques. ((ArXiv BADGE))
 
 - MsC. Pure Mathematics at UNAM
 
-  Advisor: [PhD. Sergio Rajsbaum.](https://www.matem.unam.mx/~rajsbaum/) Thesis: [Consensus Solvability Through Combinatorial Topology.](http://132.248.9.195/ptd2022/agosto/0827746/Index.html) (In Spanish)
+  Advisor: [PhD. Sergio Rajsbaum.](https://www.matem.unam.mx/~rajsbaum/)
 
-## Work Experience
-- Natural Language Lab at CIC-IPN (diplomat).
+  Thesis: [Consensus Solvability Through Combinatorial Topology.](http://132.248.9.195/ptd2022/agosto/0827746/Index.html) (In Spanish)
 
-  Advisor: PhD. Grigori Sidorov. Terminal Project: Anime Poppularity Prediction with Deep Learning Techniques.
+
+- BsC. Pure Mathematics at UNAM
   
-- Professor on Pure matematics at UNAM.
+  Advisor: [PhD. Sergio Rajsbaum.](https://www.matem.unam.mx/~rajsbaum/)
+
+  Thesis: [Combinatorial Topology Models for Russian Cards Problems.](http://132.248.9.195/ptd2020/noviembre/0804812/Index.html) (In Spanish, third best of all México in 2021)
+
+
+## Academic Experience
+- Associate professor of [Pure matematics at UNAM](https://www.fciencias.unam.mx/directorio/80077).
+  - Calculus I (in Spanish) feb-jul 2021
+  - Calculus I (in Spanish) aug-dec 2020
+  - Differential Equations I (in Spanish) feb-jul 2020
+  - Analytic Geometry I (in Spanish) feb-jul 2020
+  - Introduction to Abstract Algebra I (Álgebra Superior I) aug-dec 2019
+  - Calculus I (in Spanish) aug-dec 2019
+  - Differential Equations I (in Spanish) feb-jul 2019
