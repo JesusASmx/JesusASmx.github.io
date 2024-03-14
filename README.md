@@ -9,9 +9,17 @@ He is currently finishing his final project at CIC-IPN, in which he employed LLM
 Competences: data science, machine learning, deep learning, llm's, PyTorch, Python, Html.
 
 ### Education 
-- BsC. Pure Mathematics
-- MsC. Pure Mathematics
+- BsC. Pure Mathematics at UNAM
+  
+  Advisor: PhD. Sergio Rajsbaum. Thesis: Combinatorial Topology Models for Russian Cards Problems. (In Spanish)
+
+- MsC. Pure Mathematics at UNAM
+
+  Advisor: PhD. Sergio Rajsbaum. Thesis: Consensus Solvability Through Combinatorial Topology. (In Spanish)
 
 ### Work Experience
-- Natural Language Lab at CIC-IPN. (2-years diplomat)
-- Professor on Pure matematics at UNAM
+- Natural Language Lab at CIC-IPN (diplomat).
+
+  Advisor: PhD. Grigori Sidorov. Terminal Project: Anime Poppularity Prediction with Deep Learning Techniques.
+  
+- Professor on Pure matematics at UNAM.
