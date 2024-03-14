@@ -12,19 +12,20 @@ Competences: data science, machine learning, deep learning, llm's, PyTorch, Pyth
 
 ## Education 
 
-- Diplomat at the Natural Language Lab at CIC-IPN.
+- Diplomat at the Natural Language Lab at CIC-IPN. (2022-2024)
 
-  Advisor: [PhD. Grigori Sidorov.](https://www.cic.ipn.mx/~sidorov/)
+  Tutor: [PhD. Grigori Sidorov.](https://www.cic.ipn.mx/~sidorov/)
+  
   Terminal Project: Anime Popularity Prediction with Deep Learning Techniques. ((ArXiv BADGE))
 
-- MsC. Pure Mathematics at UNAM
+- MsC. Pure Mathematics at UNAM (2020-2022)
 
   Advisor: [PhD. Sergio Rajsbaum.](https://www.matem.unam.mx/~rajsbaum/)
 
   Thesis: [Consensus Solvability Through Combinatorial Topology.](http://132.248.9.195/ptd2022/agosto/0827746/Index.html) (In Spanish)
 
 
-- BsC. Pure Mathematics at UNAM
+- BsC. Pure Mathematics at UNAM (2015-2020)
   
   Advisor: [PhD. Sergio Rajsbaum.](https://www.matem.unam.mx/~rajsbaum/)
 
