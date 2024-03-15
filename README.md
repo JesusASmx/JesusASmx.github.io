@@ -13,6 +13,8 @@ Competences: data science, machine learning, deep learning, llm's, PyTorch, Pyth
 
 ## Papers and Publications
 
+[h-index: 3](https://scholar.google.com/citations?user=qFEylJkAAAAJ&hl)
+
 - Publication in journals
   - <b>TITULO PAPER-ANIME.</b>
     
