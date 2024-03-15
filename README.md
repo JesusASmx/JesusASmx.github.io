@@ -1,5 +1,5 @@
 <p align="center">
-    <img href=https://scholar.google.com/citations?user=qFEylJkAAAAJ&hl align="center" src="assets/img/Gscholar%20badge.png" width="30" height="30">
+    <p href=https://scholar.google.com/citations?user=qFEylJkAAAAJ&hl><img align="center" src="assets/img/Gscholar%20badge.png" width="30" height="30"></p>
     <img href=https://github.com/JesusASmx align="center" src="assets/img/github%20badge.png" width="30" height="30">
     <img href=https://orcid.org/0009-0003-8729-7096 align="center" src="assets/img/ORCID%20badge.png" width="30" height="30">
     <img href=https://www.researchgate.net/profile/Jesus-Armenta-Segura align="center" src="assets/img/rgate%20badge.png" width="30" height="30">
