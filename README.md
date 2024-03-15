@@ -4,6 +4,9 @@
 [![orcid](assets/img/ORCID%20badge.png)](https://orcid.org/0009-0003-8729-7096)
 [![mailto](assets/img/email%20badge.png)](mailto:jesus.jorge.armenta@gmail.com)
 
+
+[CV in pdf](https://jesusasmx.github.io/My_Cv/JAS_CV_2024.pdf)
+
 # About me
 
 Jesús Armenta-Segura is a Mexican researcher on NLP, currently working at the [CIC-IPN Natural Language Lab](https://www.cic.ipn.mx/index.php/proyectos-pln).
