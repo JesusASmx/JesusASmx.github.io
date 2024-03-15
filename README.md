@@ -1,7 +1,3 @@
-<p align="center">
-    <a href=https://github.com/JesusASmx><img align="center" src="assets/img/github%20badge.png" width="30" height="30"></a>
-</p>
-
 
 # About me
 
