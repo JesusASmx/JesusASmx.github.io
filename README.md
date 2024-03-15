@@ -8,7 +8,7 @@ He is currently finishing his final project at CIC-IPN, in which he employed LLM
 [![repo](https://img.shields.io/badge/GitHub-repo-violet.svg)](https://github.com/JesusASmx/Correlation-between-anime-synopsis-and-popularity-with-LLM-s). Also, he is the author of StoneAxe [![repo](https://img.shields.io/badge/StoneAxe-V1.1-orange.svg)](https://github.com/JesusASmx/StoneAxeV1.1), an extractor of <i>generalized Propp functions</i> who have shown correlation with narratives (currently, he is experimenting in the area of argument mining and sentiment analysis).
 Now he is looking for a PhD position to continue his formation.
 
-Competences: data science, machine learning, deep learning, llm's, PyTorch, Python, Html.
+Competences: data science, machine learning, deep learning, LLM's, PyTorch, Python, Html.
 
 
 ## Papers and Publications
