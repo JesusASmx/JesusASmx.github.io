@@ -1,3 +1,12 @@
+<p align="center">
+    <a href=https://scholar.google.com/citations?user=qFEylJkAAAAJ&hl><img align="center" src="assets/img/Gscholar%20badge.png" width="30" height="30"></a>
+    <a href=https://github.com/JesusASmx/><img align="center" src="assets/img/github%20badge.png" width="30" height="30"></a>
+    <a href=https://orcid.org/0009-0003-8729-7096><img align="center" src="assets/img/ORCID%20badge.png" width="30" height="30"></a>
+    <a href=https://www.researchgate.net/profile/Jesus-Armenta-Segura><img align="center" src="assets/img/rgate%20badge.png" width="30" height="30"></a>
+    <a href=mailto:jesus.jorge.armenta@gmail.com><img align="center" src="assets/img/email%20badge.png" width="30" height="30"></a>
+</p>
+
+
 # About me
 
 Jesús Armenta-Segura is a Mexican researcher on NLP, currently working at the [CIC-IPN Natural Language Lab](https://www.cic.ipn.mx/index.php/proyectos-pln).
