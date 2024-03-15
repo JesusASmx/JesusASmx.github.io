@@ -1,3 +1,8 @@
+![gshcolar](assets/img/Gscholar%20badge.png)(https://scholar.google.com/citations?user=qFEylJkAAAAJ&hl)
+![github](assets/img/github%20badge.png)(https://github.com/JesusASmx)
+![rgate](assets/img/rgate%20badge.png)(https://www.researchgate.net/profile/Jesus-Armenta-Segura)
+![orcid](assets/img/ORCID%20badge.png)(https://orcid.org/0009-0003-8729-7096)
+![mailto](assets/img/email%20badge.png)(mailto:jesus.jorge.armenta@gmail.com)
 
 # About me
 
