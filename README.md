@@ -1,9 +1,3 @@
-![gscholar](assets/img/Gscholar%20badge.png)
-![github](assets/img/github%20badge.png)
-![orcid](assets/img/ORCID%20badge.png)
-![rgate](assets/img/rgate%20badge.png)
-![mailto](assets/img/email%20badge.png)
-
 # About me
 
 Jesús Armenta-Segura is a Mexican researcher on NLP, currently working at the [CIC-IPN Natural Language Lab](https://www.cic.ipn.mx/index.php/proyectos-pln).
@@ -21,7 +15,7 @@ Competences: data science, machine learning, deep learning, LLM's, PyTorch, Pyth
 
 [h-index: 3](https://scholar.google.com/citations?user=qFEylJkAAAAJ&hl)
 
-- Publication in journals
+- Submissions and Publication in journals
   - <b>TITULO PAPER-ANIME.</b>
     
     J. Armenta-Segura, Et. Al.
