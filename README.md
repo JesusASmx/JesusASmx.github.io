@@ -18,7 +18,22 @@ Competences: data science, machine learning, deep learning, LLM's, PyTorch, Pyth
 
 ## Papers and Publications
 
-[h-index: 3](https://scholar.google.com/citations?user=qFEylJkAAAAJ&hl)
+[h-index: 4](https://scholar.google.com/citations?user=qFEylJkAAAAJ&hl)
+
+- Selected works:
+  - <b>Ometeotl@multimodal hate speech event detection 2023: Hate speech and text-image correlation detection in real life memes using pre-trained bert models over text</b>
+
+    J. Armenta-Segura, C. Núñez-Prado, G. Sidorov, A. Gelbukh, and R. Román-Godínez.
+    
+    In Proceedings of the [VI workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE@RANLP 2023), Varna, Bulgaria, Sep. 2023.](https://aclanthology.org/2023.case-1.7/)
+
+  - <b>Anime success prediction based on synopsis using traditional classifiers</b>
+
+    J. Armenta-Segura and G. Sidorov.
+
+    Jun. 2023. Published at ["Research in Computer Science"](https://rcs.cic.ipn.mx/2023_152_9)
+
+
 
 - Submissions and Publication in journals:
   - <b>Two-agent approximate agreement from an epistemic logic perspective</b>
