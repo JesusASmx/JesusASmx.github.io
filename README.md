@@ -13,7 +13,7 @@ Jesús Armenta-Segura is a Mexican researcher on NLP, currently studying at the 
 
 He received his education in Pure Mathematics at [UNAM](https://www.unam.mx/), in Mexico. His bachelor thesis [was awarded as the third best of all the country in 2021](https://www.smm.org.mx/premio-sotero-prieto/2021). 
 
-Competences: data science, machine learning, deep learning, LLM's, PyTorch, Python, Html.
+Competences: data science, machine learning, deep learning, LLM's, PyTorch, Python.
 
 
 ## Papers and Publications
