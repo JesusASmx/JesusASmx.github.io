@@ -5,7 +5,7 @@
 [![mailto](assets/img/email%20badge.png)](mailto:jesus.jorge.armenta@gmail.com)
 
 
-[CV in pdf](https://jesusasmx.github.io/My_Cv/JAS_CV_2024.pdf)
+[CV in pdf](https://jesusasmx.github.io/My_Cv/Jes%C3%BAs_Armenta_Segura_CV__2024.pdf)
 
 # About me
 
