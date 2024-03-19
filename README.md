@@ -9,11 +9,9 @@
 
 # About me
 
-Jesús Armenta-Segura is a Mexican researcher on NLP, currently working at the [CIC-IPN Natural Language Lab](https://www.cic.ipn.mx/index.php/proyectos-pln).
+Jesús Armenta-Segura is a Mexican researcher on NLP, currently studying at the [CIC-IPN Natural Language Lab](https://www.cic.ipn.mx/index.php/proyectos-pln).
 
 He received his education in Pure Mathematics at [UNAM](https://www.unam.mx/), in Mexico. His bachelor thesis [was awarded as the third best of all the country in 2021](https://www.smm.org.mx/premio-sotero-prieto/2021). 
-
-
 
 Competences: data science, machine learning, deep learning, LLM's, PyTorch, Python, Html.
 
@@ -22,13 +20,7 @@ Competences: data science, machine learning, deep learning, LLM's, PyTorch, Pyth
 
 [h-index: 3](https://scholar.google.com/citations?user=qFEylJkAAAAJ&hl)
 
-- Submissions and Publication in journals
-  - <b>TITULO PAPER-ANIME.</b>
-    
-    J. Armenta-Segura, Et. Al.
-    
-    SUBMITTED TO ???. ((ArXiV))
-    
+- Submissions and Publication in journals:
   - <b>Two-agent approximate agreement from an epistemic logic perspective</b>
     
     J. Armenta-Segura, J. Ledent, S. Rajsbaum
@@ -36,7 +28,7 @@ Competences: data science, machine learning, deep learning, LLM's, PyTorch, Pyth
     [Computación y Sistemas, vol. 26, no. 2, 2022.](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/4234)
 
 
-- Conference Proceedings
+- Conference Proceedings:
   - <b>Anime success prediction based on synopsis using traditional classifiers</b>
 
     J. Armenta-Segura and G. Sidorov.
@@ -50,7 +42,7 @@ Competences: data science, machine learning, deep learning, LLM's, PyTorch, Pyth
     In Proceedings of the [19th International Conference on Natural Language Processing (ICON)](https://aclanthology.org/2022.icon-wlli.1)
  
     
-- Participations in Shared Tasks and Contests
+- Participations in Shared Tasks and Contests:
   - <b>Ometeotl@multimodal hate speech event detection 2023: Hate speech and text-image correlation detection in real life memes using pre-trained bert models over text</b>
 
     J. Armenta-Segura, C. Núñez-Prado, G. Sidorov, A. Gelbukh, and R. Román-Godínez.
