@@ -1,0 +1,604 @@
+.mucho-texto {
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    background-image: url('background.png');
+    background-size:100% 100%;
+
+    font: 110% 'Satoshi', sans-serif;
+    color: rgb(185, 185, 185);
+    line-height: 1.5;
+}
+
+.barra-navegación{
+    background-color: red;
+    display: flex;
+}
+
+/* Cambiar idiomas */
+/* The container must be positioned relative: */
+
+.multilenjuages {
+    position: relative;
+    background-color: rgb(214, 214, 214);
+    border-radius: 20%;
+  }
+
+
+
+
+
+
+
+
+
+.encabezado3{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(200, 200, 200);
+    margin: 100px 0px 50px 0px;
+}
+
+.farol{
+    font-size: bold;
+    text-align: center;
+    align-items: center;
+    font-size: max(15px, 0.8vw);
+    color: rgb(238, 154, 255);
+}
+
+.resto-fondo { /*SYNTAX: initial color, changes to, final color*/
+    background: radial-gradient(rgb(14, 38, 39), transparent, transparent 100%);
+}
+
+
+/* BARRA DE NAVEGACIÓN */
+
+@keyframes cerebritohead-animado {
+    0% {opacity: 1;}
+    12% {opacity: 0.7;}
+    25% {opacity: 1; filter: hue-rotate(90deg);}
+
+    37% {opacity: 0.7;}
+    50% {opacity: 1; filter: hue-rotate(180deg);}
+
+    62% {opacity: 0.7;}
+    75% {opacity: 1; filter: hue-rotate(270deg);}
+
+    87% {opacity: 0.7;}
+    100% {opacity: 1; filter: hue-rotate(360deg);}
+  }
+  
+.cerebrito-head{
+    padding: 0px 50px;
+    animation-name: cerebritohead-animado;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+}
+
+.jeader{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+
+    padding: 0px 0px;
+
+    background-color: rgba(20, 20, 20, 0.2);
+    backdrop-filter: blur(4px);
+
+    border-bottom: 2px solid rgba(247, 160, 255, 0.5);
+}
+
+.nabigation a{
+    color: rgb(100, 100, 100);
+    font-weight: 500;
+    margin-left: 0px;
+    margin-right: 60px;
+    transition: .3s;
+}
+
+.nabigation a:hover{
+    color: rgb(200, 200, 200);
+    font-weight: 1000;
+}
+
+.nabigation a.active {
+    color: rgb(234, 0, 255);
+}
+
+.barra-top{
+    width: 100%;
+}
+
+.barra-top td:first-child {
+    text-align: left;
+}
+
+.barra-top td:last-child {
+    text-align: right;
+}
+
+.liña{
+    width:500%;
+    text-align:right;
+}
+
+
+
+
+/*SELECTORES SOBRE LA PORTADA*/
+
+@keyframes cerebrito-animado {
+    0% {opacity: 1;}
+    12% {opacity: 0.7;}
+    25% {opacity: 1; filter: hue-rotate(90deg);}
+
+    37% {opacity: 0.7;}
+    50% {opacity: 1; filter: hue-rotate(180deg);}
+
+    62% {opacity: 0.7;}
+    75% {opacity: 1; filter: hue-rotate(270deg);}
+
+    87% {opacity: 0.7;}
+    100% {opacity: 1; filter: hue-rotate(360deg);}
+  }
+  
+.cerebrito{
+    margin: 100px 0px 150px 0px;
+    animation-name: cerebrito-animado;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+}
+
+.encabezado1{
+    font-size: bold;
+    text-align: center;
+    align-items: center;
+    font-size: max(50px, 5vw);
+    color: rgb(230, 230, 230);
+    margin: 200px 0px 20px 0px;
+}
+
+.encabezado2{
+    text-align: center;
+    font-size: max(25px, 2vw);
+    color: rgb(255, 175, 2);
+    margin: 20px 0px 20px 0px;
+}
+
+.portada-fondo { /*SYNTAX: initial color, changes to, final color*/
+    background: radial-gradient(rgb(39, 14, 14), transparent, transparent 100%);
+}
+
+
+
+.top-buttons {
+    border-radius: 100%;
+    transition-duration: 0.8s;
+    filter: brightness(150%);
+}
+
+.top-buttons:hover { /*SYNTAX: Apx Bpx Cpx Dpx; A is x-cooridnate, B is y-coordinate, C is blur ratio, D is span ratio*/
+    box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.001), 0px 0px 20px 10px rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.2);
+    filter: brightness(300%);
+}
+
+.semblanza {
+    background-color: rgba(255, 174, 0, 0.05);
+    border-radius: 8px;
+    border: 1px solid rgb(83, 83, 83);
+    padding: 10px 20px 10px 20px;
+}
+
+
+/*Experiencia*/
+
+.botón-cv{
+    display: block; /*Se separa del texto*/
+    width: 62%;
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(107, 84, 84);
+    border-radius: 8px;
+    transition-duration: 0.8s;
+}
+
+.botón-cv:hover {
+    box-shadow: 0px 0px 0px 0px rgb(255, 255, 255), 0px 0px 20px 10px rgba(255, 255, 255, 0.637);
+    background-color: rgb(107, 84, 84);
+    filter: brightness(200%);
+}
+
+.experiencia {
+    background-color: rgba(255, 174, 0, 0.05);
+    transition-duration: 0.4s;
+
+    border-radius: 8px;
+    border: 1px solid rgb(83, 83, 83);
+}
+
+.experiencia:hover {
+    background-color: rgba(255, 174, 0, 0.08);
+
+    border-radius: 8px;
+    border: 1.5px solid rgb(100, 100, 100);
+}
+
+
+
+
+/*Proyectos*/
+
+.proy-paragr {
+    color: rgb(196, 196, 196);
+}
+
+.proy-buttons {
+    border-radius: 100%;
+    transition-duration: 0.8s;
+    filter: brightness(150%);
+}
+
+.proy-buttons:hover {
+    box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.001), 0px 0px 10px 5px rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.2);
+    filter: brightness(300%);
+}
+
+
+.big-proy-buttons {
+    border-radius: 100%;
+    transition-duration: 0.2s;
+    filter: brightness(100%);
+}
+
+.big-proy-buttons:hover {
+    filter: brightness(150%);
+}
+
+
+.proyecto-A {
+    text-align: center;
+    align-items: center;
+    max-width:500px;
+    background-color: rgba(255, 0, 242, 0.05);
+    transition-duration: 0.2s;
+
+    border-radius: 8px;
+    border: 1px solid rgb(83, 83, 83);
+}
+
+.proyecto-A:hover {
+    background-color: rgba(255, 0, 242, 0.1);
+    /* animation-name: proy-anim;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;*/
+
+    border-radius: 8px;
+    border: 1.5px solid rgb(255, 255, 255);
+
+    box-shadow: 0px 0px 0px 0px rgb(255, 255, 255), 0px 0px 5px 2.5px rgba(255, 255, 255, 0.637);
+}
+
+.proyecto-B {
+    text-align: center;
+    align-items: center;
+    max-width:500px;
+    background-color: rgba(143, 106, 28, 0.05);
+    transition-duration: 0.2s;
+
+    border-radius: 8px;
+    border: 1px solid rgb(83, 83, 83);
+}
+
+.proyecto-B:hover {
+    background-color: rgba(255, 174, 0, 0.1);
+    /* animation-name: proy-anim;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;*/
+
+    border-radius: 8px;
+    border: 1.5px solid rgb(255, 255, 255);
+
+    box-shadow: 0px 0px 0px 0px rgb(255, 255, 255), 0px 0px 5px 2.5px rgba(255, 255, 255, 0.637);
+}
+
+
+@keyframes proy-anim {
+    0% {opacity: 1;}
+    12% {opacity: 0.7;}
+    25% {opacity: 1;}
+
+    37% {opacity: 0.7;}
+    50% {opacity: 1;}
+
+    62% {opacity: 0.7;}
+    75% {opacity: 1;}
+
+    87% {opacity: 0.7;}
+    100% {opacity: 1;}
+  }
+
+.proy-headers{
+    margin: 20px 20px 20px 20px; 
+    font-size:30px;
+    color:rgb(190, 190, 190); 
+    display: flex; 
+    align-items: center;
+    text-align: center;
+}
+
+.ai-projecto{
+    max-width:500px;
+    transition-duration: 0.2s;
+    margin: 0px 0px 0px 0px;
+    background-color: rgba(253, 253, 253,0.01);
+
+    border-radius: 8px;
+    border: 1px solid rgb(83, 83, 83);
+}
+
+.ai-projecto:hover {
+    filter: brightness(200%);
+    background-color: rgba(253, 253, 253,0.08);
+}
+
+
+
+
+/*Stack*/
+
+.change{
+    display: none;
+    width: max-content;
+}
+
+.stack-buttonA{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 0.1px solid rgb(83, 83, 83, 0.01);
+    background-color: rgba(255, 0, 0, 0.1);
+
+    box-shadow: 0px 0px 0px 0px rgba(255, 0, 0, 0.001), 0px 0px 20px 10px rgba(255, 0, 0, 0.1);
+    transition-duration: .3s;
+}
+
+.stack-buttonA:hover{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid rgb(255, 0, 0);
+
+    filter: brightness(150%);
+}
+
+.stack-buttonA:hover + .change{
+    display: block;
+    color: pink;
+
+    border-radius: 8px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+
+
+.stack-buttonB{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 0.1px solid rgba(24, 199, 53, 0.01);
+    background-color: rgba(24, 199, 53, 0.1);
+
+    box-shadow: 0px 0px 0px 0px rgba(24, 199, 53, 0.001), 0px 0px 20px 10px rgba(24, 199, 53, 0.1);
+    transition-duration: .3s;
+}
+
+.stack-buttonB:hover{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid rgb(24, 199, 53);
+
+    filter: brightness(150%);
+}
+
+.stack-buttonB:hover + .change{
+    display: block;
+    color: pink;
+
+    border-radius: 8px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+
+
+.stack-buttonC{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 0.1px solid rgba(240, 230, 1, 0.01);
+    background-color: rgba(240, 230, 1, 0.1);
+
+    box-shadow: 0px 0px 0px 0px rgba(240, 230, 1, 0.001), 0px 0px 20px 10px rgba(240, 230, 1, 0.1);
+    transition-duration: .3s;
+}
+
+.stack-buttonC:hover{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid rgb(240, 230, 1);
+
+    filter: brightness(150%);
+}
+
+.stack-buttonC:hover + .change{
+    display: block;
+    color: pink;
+
+    border-radius: 8px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+
+
+.stack-buttonD{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 0.1px solid rgba(234, 0, 255, 0.01);
+    background-color: rgba(234, 0, 255, 0.1);
+
+    box-shadow: 0px 0px 0px 0px rgba(234, 0, 255, 0.001), 0px 0px 20px 10px rgba(234, 0, 255, 0.1);
+    transition-duration: .3s;
+}
+
+.stack-buttonD:hover{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid rgb(234, 0, 255);
+
+    filter: brightness(150%);
+}
+
+.stack-buttonD:hover + .change{
+    display: block;
+    color: pink;
+
+    border-radius: 8px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+
+
+.stack-buttonE{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 0.1px solid rgba(255, 255, 255, 0.01);
+    background-color: rgba(255, 255, 255, 0.1);
+
+    box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.001), 0px 0px 20px 10px rgba(255, 255, 255, 0.1);
+    transition-duration: .3s;
+}
+
+.stack-buttonE:hover{
+    width: 50px;
+    height: 50 px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid rgb(255, 255, 255);
+
+    filter: brightness(150%);
+}
+
+.stack-buttonE:hover + .change{
+    display: block;
+    color: pink;
+
+    border-radius: 8px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+
+/* PUBLICATIONS */
+
+.pub-hover{
+    display: none;
+    max-width: 480px;
+}
+
+.publication{
+    max-width: 500px;
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 0, 255, 0.1);
+
+    margin-bottom: 7px;
+    transition-duration: .1s;
+}
+
+.publication:hover{
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.1), 0px 0px 5px 5px rgba(255, 255, 255, 0.4);
+    background-color: rgba(255, 0, 255, 0.3);
+}
+
+.publication:hover + .pub-hover{
+    display: block;
+    color:pink;
+    padding: 0px 10px;
+
+    border-radius: 8px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.paper-button{
+    display: inline;
+    transition-duration: 0.3s;
+}
+
+.paper-button:hover{
+    filter: brightness(200%);
+}
+
+
+/* COURSES */
+
+.curso {
+    max-width:500px;
+    transition-duration: 0.2s;
+    margin: 0px 0px 0px 0px;
+
+    border-radius: 8px;
+    border: 1px solid rgb(83, 83, 83);
+}
+
+.curso:hover {
+    filter: brightness(200%);
+}
+
+
+
+/* BOTTOM PAGE */
+
+.bottom-buttons {
+    border-radius: 100%;
+    transition-duration: 0.8s;
+    filter: brightness(80%);
+}
+
+.bottom-buttons:hover { /*SYNTAX: Apx Bpx Cpx Dpx; A is x-cooridnate, B is y-coordinate, C is blur ratio, D is span ratio*/
+    box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.001), 0px 0px 20px 10px rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.2);
+    filter: brightness(150%);
+}
