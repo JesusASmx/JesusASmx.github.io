@@ -8,17 +8,18 @@ const translations = {
 
     texto_semblanza1 : "¡Hola! Soy un científico de datos radicado en la Ciudad de México. Tengo",
     texto_semblanza2 : "1 año",
-    texto_semblanza3 : "de experiencia trabajando en PLN (procesamiento de lenguaje natural).",
-    texto_semblanza4 : "Mi principal interés es la",
-    texto_semblanza5 : "computación lingüística,",
-    texto_semblanza6 : "pero orientado más en general hacia el estudio de todas las formas de",
-    texto_semblanza7 : "expresiones humanas:",
-    texto_semblanza8 : "estos intereses han conducido mi investigación hacia áreas de la IA como",
-    texto_semblanza9 : "visión por computadora,",
-    texto_semblanza10 : "así como también hacia ramas de la filosofía como la",
-    texto_semblanza11 : "semiótica.",
-    texto_semblanza12 : "Evidenciando esto, ambas disciplinas complementaron mi acercamiento con PLN para mi",
-    texto_semblanza13 : "Proyecto de Anime.",
+    texto_semblanza3 : "de experiencia trabajando en PLN (procesamiento de lenguaje natural), Aprendizaje Automático y Profundo.",
+
+    texto_semblanza4 : "A lo largo de este año trabajé en varios proyectos diseñando redes neuronales profundas.",
+    texto_semblanza5 : "También me he visto involucrado en otras áreas de IA como",
+    texto_semblanza6 : "visión por computadora,",
+    texto_semblanza7 : "donde aproveché sus técnicas para abordar un",
+    texto_semblanza8 : "problema de finanzas",
+    texto_semblanza9 : "relacionado con la",
+    //texto_semblanza10 : "así como también hacia ramas de la filosofía como la",
+    //texto_semblanza11 : "semiótica.",
+    //texto_semblanza12 : "Evidenciando esto, ambas disciplinas complementaron mi acercamiento con PLN para mi",
+    texto_semblanza13 : "industria del entretenimiento.",
 
     TextoEncabezado1 : "Experiencia",
     Texto_DetailedCV : "CV detallado (en inglés) 🔗",
@@ -98,17 +99,17 @@ const translations = {
     ENumber : "Ërdos Number: 3",
     texto_semblanza1 : "Hello there! I'm a data scientist based in Mexico City, I have",
     texto_semblanza2 : "1 year",
-    texto_semblanza3 : "of experience working on NLP.",
-    texto_semblanza4 : "My main interests lies in",
-    texto_semblanza5 : "computational linguistics,",
-    texto_semblanza6 : "but also in all forms of",
-    texto_semblanza7 : "human expressions:",
-    texto_semblanza8 : "this interests has driven my research journey towards AI areas such as",
-    texto_semblanza9 : "computer vision",
-    texto_semblanza10 : "but also onto philosophy branches such as",
-    texto_semblanza11 : "semiotics.",
-    texto_semblanza12 : "For instance, both of them complemented my NLP approach on my",
-    texto_semblanza13 : "Anime Project.",
+    texto_semblanza3 : "of experience working on NLP, Machine and Deep learning.",
+    texto_semblanza4 : "During this year, I worked on several projects involving deep neural networks.",
+    texto_semblanza5 : "My research journey has also been directed towards AI areas such as",
+    texto_semblanza6 : "computer vision,",
+    texto_semblanza7 : "where I leveraged their techniques to address a",
+    texto_semblanza8 : "financial problem",
+    texto_semblanza9 : "related with the",
+    //texto_semblanza10 : "",
+    //texto_semblanza11 : "semiotics.",
+    //texto_semblanza12 : "For instance, both of them complemented my NLP approach on my",
+    texto_semblanza13 : "entertainment industry.",
     TextoEncabezado1 : "Experience",
     Texto_DetailedCV : "Detailed CV 🔗",
     Texto_NLPeng : "NLP engineer at CIC-IPN",
@@ -183,9 +184,9 @@ let texto_semblanza6 = document.getElementById("Texto-Semblanza6");
 let texto_semblanza7 = document.getElementById("Texto-Semblanza7");
 let texto_semblanza8 = document.getElementById("Texto-Semblanza8");
 let texto_semblanza9 = document.getElementById("Texto-Semblanza9");
-let texto_semblanza10 = document.getElementById("Texto-Semblanza10");
-let texto_semblanza11 = document.getElementById("Texto-Semblanza11");
-let texto_semblanza12 = document.getElementById("Texto-Semblanza12");
+//let texto_semblanza10 = document.getElementById("Texto-Semblanza10");
+//let texto_semblanza11 = document.getElementById("Texto-Semblanza11");
+//let texto_semblanza12 = document.getElementById("Texto-Semblanza12");
 let texto_semblanza13 = document.getElementById("Texto-Semblanza13");
 let TextoEncabezado1 = document.getElementById("Texto-Encabezado1");
 let Texto_DetailedCV = document.getElementById("Texto-DetailedCV");
@@ -265,9 +266,9 @@ const setLanguage = (language) => {
     texto_semblanza7.innerText = translations.es.texto_semblanza7;
     texto_semblanza8.innerText = translations.es.texto_semblanza8;
     texto_semblanza9.innerText = translations.es.texto_semblanza9;
-    texto_semblanza10.innerText = translations.es.texto_semblanza10;
-    texto_semblanza11.innerText = translations.es.texto_semblanza11;
-    texto_semblanza12.innerText = translations.es.texto_semblanza12;
+    //texto_semblanza10.innerText = translations.es.texto_semblanza10;
+    //texto_semblanza11.innerText = translations.es.texto_semblanza11;
+    //texto_semblanza12.innerText = translations.es.texto_semblanza12;
     texto_semblanza13.innerText = translations.es.texto_semblanza13;
     TextoEncabezado1.innerText = translations.es.TextoEncabezado1;
     Texto_DetailedCV.innerText = translations.es.Texto_DetailedCV;
@@ -342,9 +343,9 @@ const setLanguage = (language) => {
     texto_semblanza7.innerText = translations.en.texto_semblanza7;
     texto_semblanza8.innerText = translations.en.texto_semblanza8;
     texto_semblanza9.innerText = translations.en.texto_semblanza9;
-    texto_semblanza10.innerText = translations.en.texto_semblanza10;
-    texto_semblanza11.innerText = translations.en.texto_semblanza11;
-    texto_semblanza12.innerText = translations.en.texto_semblanza12;
+    //texto_semblanza10.innerText = translations.en.texto_semblanza10;
+    //texto_semblanza11.innerText = translations.en.texto_semblanza11;
+    //texto_semblanza12.innerText = translations.en.texto_semblanza12;
     texto_semblanza13.innerText = translations.en.texto_semblanza13;
     TextoEncabezado1.innerText = translations.en.TextoEncabezado1;
     Texto_DetailedCV.innerText = translations.en.Texto_DetailedCV;
