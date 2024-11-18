@@ -7,10 +7,10 @@ const translations = {
     ENumber : "Número de Ërdos: 3",
 
     texto_semblanza1 : "¡Hola! Soy un científico de datos radicado en la Ciudad de México. Tengo",
-    texto_semblanza2 : "1 año",
+    texto_semblanza2 : "3 años",
     texto_semblanza3 : "de experiencia trabajando en PLN (procesamiento de lenguaje natural), Aprendizaje Automático y Profundo.",
 
-    texto_semblanza4 : "A lo largo de este año trabajé en varios proyectos diseñando redes neuronales profundas.",
+    texto_semblanza4 : "En este tiempo trabajé en varios proyectos diseñando redes neuronales profundas.",
     texto_semblanza5 : "También me he visto involucrado en otras áreas de IA como",
     texto_semblanza6 : "visión por computadora,",
     texto_semblanza7 : "donde aproveché sus técnicas para abordar un",
