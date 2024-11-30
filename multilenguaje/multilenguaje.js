@@ -6,7 +6,7 @@ const translations = {
     Hindex : "Índice H: 5",
     ENumber : "Número de Ërdos: 3",
 
-    texto_semblanza1 : "¡Hola! Soy un científico de datos radicado en la Ciudad de México. Tengo",
+    texto_semblanza1 : "¡Hola! Soy un científico de datos radicado en Monterrey. Tengo",
     texto_semblanza2 : "3 años",
     texto_semblanza3 : "de experiencia trabajando en PLN (procesamiento de lenguaje natural), Aprendizaje Automático y Profundo.",
 
@@ -16,15 +16,25 @@ const translations = {
     texto_semblanza7 : "donde aproveché sus técnicas para abordar un",
     texto_semblanza8 : "problema de finanzas",
     texto_semblanza9 : "relacionado con la",
-    //texto_semblanza10 : "así como también hacia ramas de la filosofía como la",
-    //texto_semblanza11 : "semiótica.",
-    //texto_semblanza12 : "Evidenciando esto, ambas disciplinas complementaron mi acercamiento con PLN para mi",
+    texto_semblanza10 : "Actualmente trabajo en un proyecto sobre",
+    texto_semblanza11 : "IA explicada (XAI)",
+    texto_semblanza12 : "en el que pretendemos detectar y explicar descriptores de violencia en reportes escolares en español",
     texto_semblanza13 : "industria del entretenimiento.",
 
     TextoEncabezado1 : "Experiencia",
     Texto_DetailedCV : "CV detallado (en inglés) 🔗",
+
+    Texto_IFEeng : "Ingeniero de PLN (IFE-Tec de Monterrey)",
+    Texto_fechaTEC : "Agosto 2024 - Julio 2025",
+
+    Texto_IFEeng_exp1 : "We are working in a project of violence descriptors detection",
+    Texto_IFEeng_exp2 : "and explanation in school reports, leveraging NLP techniques.",
+    Texto_TecProy : "Explaining Violence Descriptors",
+
+
+    
     Texto_NLPeng : "Ingeniero de PLN (CIC-IPN)",
-    Texto_fecha1 : "Agosto 2022 - presente",
+    Texto_fecha1 : "Agosto 2022",
     Texto_NLPengexp1 : "Escritura de artículos científicos",
     Texto_NLPengexp15 : "(ver abajo la lista de publicaciones)",
     Texto_NLPengexp2 : "Proyecto Terminal: Predicción de Popularidad en Anime",
@@ -41,7 +51,7 @@ const translations = {
     Texto_ProfAdjuntoexp2 : "Labores de evaluación",
     Texto_ProfAdjuntoexp3 : "Ver abajo la lista de cursos.",
 
-    Texto_Encabezado2 : "Mi último proyecto de IA",
+    Texto_Encabezado2 : "Mis últimos proyectos de IA",
     Texto_Encabezado21 : "Otros proyectos de IA",
 
     Proyecto_AI1 : "Embeddings de Mistral-7b y Llama2 para Sinopsis de Animes utilizando Ollama 🔗",
